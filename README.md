@@ -2,7 +2,7 @@
 
 ## Installation 
 
-1. npm install : installer les dépendances du projet depuis package Json.
+1. npm install
 
 ###### Lancer sur Ios 
 
